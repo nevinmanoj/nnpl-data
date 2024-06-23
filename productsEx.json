@@ -1,0 +1,52 @@
+[
+  {
+    "product": "Laptop",
+    "partCode": "LPT-001",
+    "ratePerUnit": 750
+  },
+  {
+    "product": "Smartphone",
+    "partCode": "SMP-002",
+    "ratePerUnit": 500
+  },
+  {
+    "product": "Tablet",
+    "partCode": "TBL-003",
+    "ratePerUnit": 300
+  },
+  {
+    "product": "Monitor",
+    "partCode": "MNT-004",
+    "ratePerUnit": 150
+  },
+  {
+    "product": "Keyboard",
+    "partCode": "KBD-005",
+    "ratePerUnit": 20
+  },
+  {
+    "product": "Mouse",
+    "partCode": "MSE-006",
+    "ratePerUnit": 10
+  },
+  {
+    "product": "Printer",
+    "partCode": "PRT-007",
+    "ratePerUnit": 120
+  },
+  {
+    "product": "External Hard Drive",
+    "partCode": "EHD-008",
+    "ratePerUnit": 80
+  },
+  {
+    "product": "Webcam",
+    "partCode": "WBC-009",
+    "ratePerUnit": 25
+  },
+  {
+    "product": "Headphones",
+    "partCode": "HPH-010",
+    "ratePerUnit": 35
+  }
+]

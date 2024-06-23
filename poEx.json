@@ -1,0 +1,61 @@
+[
+  {
+    "pno": "NNPL/SW/MS/2023-23/123",
+    "poStatus": "draft",
+    "date": 1231221223,
+    "tax": 20,
+    "products": [
+      {
+        "product": "Laptop",
+        "partCode": "LPT-001",
+        "qty": 10,
+        "ratePerUnit": 750,
+        "footNote": "Includes charger"
+      },
+      {
+        "product": "Smartphone",
+        "partCode": "SMP-002",
+        "qty": 25,
+        "ratePerUnit": 500,
+        "footNote": "2-year warranty"
+      },
+      {
+        "product": "Tablet",
+        "partCode": "TBL-003",
+        "qty": 15,
+        "ratePerUnit": 300,
+        "footNote": "Includes stylus"
+      }
+    ],
+    "distributor": {
+      "title": "Redington Ltd.",
+      "address1": "123 Main Street",
+      "address2": "Suite 100",
+      "address3": "Building A"
+    },
+    "billing": {
+      "title": "Neural Mumbai",
+      "phno": "+912345678901",
+      "faxno": "+912345678902",
+      "gst": "27AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralmumbai.com",
+      "address1": "123 Marine Drive",
+      "address2": "Floor 5",
+      "address3": "Building A"
+    },
+    "customer": {
+      "title": "Data Dynamics",
+      "address1": "505 Walnut Street",
+      "address2": "Unit 5D",
+      "city": "bangalore",
+      "pin": "987643",
+      "contact": "Grace Lee",
+      "contactEmail": "grace.lee@datadynamics.com",
+      "contactNumber": "+18887654321"
+    },
+    "tc": {
+      "tc": "soon updated"
+    }
+  }
+]

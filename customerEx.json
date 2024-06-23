@@ -1,0 +1,103 @@
+[
+    {
+      "title": "Tech Innovators Inc.",
+      "address1": "456 Elm Street",
+      "address2": "Floor 5",
+      "city":"kochi",
+      "pin":"683456",
+      "contact": "Alice Johnson",
+      "contactEmail": "alice.johnson@techinnovators.com",
+      "contactNumber": "+1987654321"
+    },
+    {
+      "title": "NextGen Solutions",
+      "address1": "789 Pine Avenue",
+      "address2": "Suite 100",
+      "city":"chennai",
+      "pin":"681234",
+      "contact": "Bob Smith",
+      "contactEmail": "bob.smith@nextgensolutions.com",
+      "contactNumber": "+1239876543"
+    },
+    {
+      "title": "CloudWorks Ltd.",
+      "address1": "1010 Oak Lane",
+      "address2": "Apt 202",
+      "city":"mumbai",
+      "pin":"345678",
+      "contact": "Carol White",
+      "contactEmail": "carol.white@cloudworks.com",
+      "contactNumber": "+1123456789"
+    },
+    {
+      "title": "CyberNet Corp.",
+      "address1": "202 Maple Street",
+      "address2": "Office 4B",
+      "city":"kochi",
+      "pin":"683456",
+      "contact": "David Brown",
+      "contactEmail": "david.brown@cybernetcorp.com",
+      "contactNumber": "+15551234567"
+    },
+    {
+      "title": "Innovatech Solutions",
+      "address1": "303 Birch Road",
+      "address2": "",
+      "city":"chennai",
+      "pin":"681234",
+      "contact": "Eva Green",
+      "contactEmail": "eva.green@innovatech.com",
+      "contactNumber": "+14447654321"
+    },
+    {
+      "title": "AlphaTech Global",
+      "address1": "404 Cedar Avenue",
+      "address2": "Level 3",
+      "city":"bangalore",
+      "pin":"987643",
+      "contact": "Frank Harris",
+      "contactEmail": "frank.harris@alphatechglobal.com",
+      "contactNumber": "+13331234567"
+    },
+    {
+      "title": "Data Dynamics",
+      "address1": "505 Walnut Street",
+      "address2": "Unit 5D",
+      "city":"bangalore",
+      "pin":"987643",
+      "contact": "Grace Lee",
+      "contactEmail": "grace.lee@datadynamics.com",
+      "contactNumber": "+18887654321"
+    },
+    {
+      "title": "ByteWave Technologies",
+      "address1": "606 Poplar Boulevard",
+      "address2": "Suite 300",
+      "city":"bangalore",
+      "pin":"987643",
+      "contact": "Henry Martin",
+      "contactEmail": "henry.martin@bytewave.com",
+      "contactNumber": "+17771234567"
+    },
+    {
+      "title": "Quantum Solutions",
+      "address1": "707 Oakwood Drive",
+      "address2": "",
+      "city":"delhi",
+      "pin":"682017",
+      "contact": "Ivy Wilson",
+      "contactEmail": "ivy.wilson@quantumsolutions.com",
+      "contactNumber": "+16661234567"
+    },
+    {
+      "title": "NanoTech Innovations",
+      "address1": "808 Redwood Lane",
+      "address2": "Lab 1",
+      "city":"delhi",
+      "pin":"682017",
+      "contact": "Jack Taylor",
+      "contactEmail": "jack.taylor@nanotech.com",
+      "contactNumber": "+19991234567"
+    }
+  ]
+  

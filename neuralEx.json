@@ -1,0 +1,113 @@
+[
+    {
+      "title": "Neural Mumbai",
+      "phno": "+912345678901",
+      "faxno": "+912345678902",
+      "gst": "27AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralmumbai.com",
+      "address1": "123 Marine Drive",
+      "address2": "Floor 5",
+      "address3": "Building A"
+    },
+    {
+      "title": "Neural Delhi",
+      "phno": "+911234567890",
+      "faxno": "+911234567891",
+      "gst": "07AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuraldelhi.com",
+      "address1": "456 Connaught Place",
+      "address2": "Suite 100",
+      "address3": "Building B"
+    },
+    {
+      "title": "Neural Bangalore",
+      "phno": "+918765432109",
+      "faxno": "+918765432108",
+      "gst": "29AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralbangalore.com",
+      "address1": "789 MG Road",
+      "address2": "Office 200",
+      "address3": ""
+    },
+    {
+      "title": "Neural Hyderabad",
+      "phno": "+914098765432",
+      "faxno": "+914098765433",
+      "gst": "36AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralhyderabad.com",
+      "address1": "1010 HITEC City",
+      "address2": "",
+      "address3": "Block D"
+    },
+    {
+      "title": "Neural Chennai",
+      "phno": "+914467890123",
+      "faxno": "+914467890124",
+      "gst": "33AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralchennai.com",
+      "address1": "1111 Mount Road",
+      "address2": "",
+      "address3": "Wing E"
+    },
+    {
+      "title": "Neural Kolkata",
+      "phno": "+913367890123",
+      "faxno": "+913367890124",
+      "gst": "19AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralkolkata.com",
+      "address1": "1212 Park Street",
+      "address2": "Suite 300",
+      "address3": "Tower C"
+    },
+    {
+      "title": "Neural Pune",
+      "phno": "+912067890123",
+      "faxno": "+912067890124",
+      "gst": "27AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralpune.com",
+      "address1": "1313 Koregaon Park",
+      "address2": "Level 2",
+      "address3": ""
+    },
+    {
+      "title": "Neural Ahmedabad",
+      "phno": "+917967890123",
+      "faxno": "+917967890124",
+      "gst": "24AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuralahmedabad.com",
+      "address1": "1414 SG Highway",
+      "address2": "Unit 5B",
+      "address3": ""
+    },
+    {
+      "title": "Neural Jaipur",
+      "phno": "+911412345678",
+      "faxno": "+911412345679",
+      "gst": "08AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neuraljaipur.com",
+      "address1": "1515 MI Road",
+      "address2": "Floor 3",
+      "address3": "Building A"
+    },
+    {
+      "title": "Neural Lucknow",
+      "phno": "+915222345678",
+      "faxno": "+915222345679",
+      "gst": "09AAAAA0000A1Z5",
+      "pan": "ABCDE1234F",
+      "email": "contact@neurallucknow.com",
+      "address1": "1616 Hazratganj",
+      "address2": "Office 400",
+      "address3": ""
+    }
+  ]
+  

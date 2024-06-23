@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Redington Ltd.",
+      "address1": "123 Main Street",
+      "address2": "Suite 100",
+      "address3": "Building A"
+    },
+    {
+      "title": "Tech Mahindra",
+      "address1": "456 Oak Street",
+      "address2": "Floor 3",
+      "address3": ""
+    },
+    {
+      "title": "Wipro Technologies",
+      "address1": "789 Pine Avenue",
+      "address2": "Unit 5B",
+      "address3": "Tower C"
+    },
+    {
+      "title": "Tata Consultancy Services",
+      "address1": "1010 Maple Drive",
+      "address2": "",
+      "address3": "Block D"
+    },
+    {
+      "title": "Infosys Limited",
+      "address1": "1111 Elm Street",
+      "address2": "Office 200",
+      "address3": ""
+    },
+    {
+      "title": "HCL Technologies",
+      "address1": "1212 Cedar Road",
+      "address2": "Building B",
+      "address3": ""
+    },
+    {
+      "title": "Larsen & Toubro Infotech",
+      "address1": "1313 Birch Boulevard",
+      "address2": "",
+      "address3": "Wing E"
+    },
+    {
+      "title": "Mindtree",
+      "address1": "1414 Walnut Lane",
+      "address2": "Suite 300",
+      "address3": ""
+    },
+    {
+      "title": "Hexaware Technologies",
+      "address1": "1515 Poplar Street",
+      "address2": "",
+      "address3": "Unit F"
+    },
+    {
+      "title": "Mphasis",
+      "address1": "1616 Redwood Avenue",
+      "address2": "Level 2",
+      "address3": ""
+    }
+  ]
+  
